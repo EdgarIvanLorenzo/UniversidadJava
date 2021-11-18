@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 3 tipos Primitivos/Secciion 3 tipos Primitivos.iml" filepath="$PROJECT_DIR$/Seccion 3 tipos Primitivos/Secciion 3 tipos Primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 10 Alcance Variables/Seccion 16 Alcance Variables.iml" filepath="$PROJECT_DIR$/Seccion 10 Alcance Variables/Seccion 16 Alcance Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 4 Operadores/Seccion 4 Operadores.iml" filepath="$PROJECT_DIR$/Seccion 4 Operadores/Seccion 4 Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 5 Sentencia Control/Seccion 5 Sentencia Control.iml" filepath="$PROJECT_DIR$/Seccion 5 Sentencia Control/Seccion 5 Sentencia Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 6 Fundamentos Clases/Seccion 6 Fundamentos Clases.iml" filepath="$PROJECT_DIR$/Seccion 6 Fundamentos Clases/Seccion 6 Fundamentos Clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversidadJava.iml" filepath="$PROJECT_DIR$/UniversidadJava.iml" />
+    </modules>
+  </component>
+</project>
