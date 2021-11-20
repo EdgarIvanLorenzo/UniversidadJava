@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 3 tipos Primitivos/Secciion 3 tipos Primitivos.iml" filepath="$PROJECT_DIR$/Seccion 3 tipos Primitivos/Secciion 3 tipos Primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 11 Paso por valor, referencia/Seccion 11 Paso por valor, referencia.iml" filepath="$PROJECT_DIR$/Seccion 11 Paso por valor, referencia/Seccion 11 Paso por valor, referencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 12 return null/Seccion 12 return null.iml" filepath="$PROJECT_DIR$/Seccion 12 return null/Seccion 12 return null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 13 Palabra this/Seccion 13 Palabra this.iml" filepath="$PROJECT_DIR$/Seccion 13 Palabra this/Seccion 13 Palabra this.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 14 Encapsulamiento/Seccion 14 Encapsulamiento.iml" filepath="$PROJECT_DIR$/Seccion 14 Encapsulamiento/Seccion 14 Encapsulamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 15 static/Seccion 15 static.iml" filepath="$PROJECT_DIR$/Seccion 15 static/Seccion 15 static.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 10 Alcance Variables/Seccion 16 Alcance Variables.iml" filepath="$PROJECT_DIR$/Seccion 10 Alcance Variables/Seccion 16 Alcance Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 4 Operadores/Seccion 4 Operadores.iml" filepath="$PROJECT_DIR$/Seccion 4 Operadores/Seccion 4 Operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 5 Sentencia Control/Seccion 5 Sentencia Control.iml" filepath="$PROJECT_DIR$/Seccion 5 Sentencia Control/Seccion 5 Sentencia Control.iml" />
