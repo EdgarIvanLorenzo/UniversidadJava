@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CiclosDurmientes/CiclosDurmientes.iml" filepath="$PROJECT_DIR$/CiclosDurmientes/CiclosDurmientes.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 3 tipos Primitivos/Secciion 3 tipos Primitivos.iml" filepath="$PROJECT_DIR$/Seccion 3 tipos Primitivos/Secciion 3 tipos Primitivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 11 Paso por valor, referencia/Seccion 11 Paso por valor, referencia.iml" filepath="$PROJECT_DIR$/Seccion 11 Paso por valor, referencia/Seccion 11 Paso por valor, referencia.iml" />
@@ -11,6 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seccion 15 static/Seccion 15 static.iml" filepath="$PROJECT_DIR$/Seccion 15 static/Seccion 15 static.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 10 Alcance Variables/Seccion 16 Alcance Variables.iml" filepath="$PROJECT_DIR$/Seccion 10 Alcance Variables/Seccion 16 Alcance Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 16 Herencia/Seccion 16 Herencia.iml" filepath="$PROJECT_DIR$/Seccion 16 Herencia/Seccion 16 Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 17 Sobrecarga/Seccion 17 Sobrecarga.iml" filepath="$PROJECT_DIR$/Seccion 17 Sobrecarga/Seccion 17 Sobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 18 Paquetes Java/Seccion 18 Paquetes Java.iml" filepath="$PROJECT_DIR$/Seccion 18 Paquetes Java/Seccion 18 Paquetes Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 19 Constantes/Seccion 19 Constantes.iml" filepath="$PROJECT_DIR$/Seccion 19 Constantes/Seccion 19 Constantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 20 Arreglos/Seccion 20 Arreglos.iml" filepath="$PROJECT_DIR$/Seccion 20 Arreglos/Seccion 20 Arreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 4 Operadores/Seccion 4 Operadores.iml" filepath="$PROJECT_DIR$/Seccion 4 Operadores/Seccion 4 Operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 5 Sentencia Control/Seccion 5 Sentencia Control.iml" filepath="$PROJECT_DIR$/Seccion 5 Sentencia Control/Seccion 5 Sentencia Control.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seccion 6 Fundamentos Clases/Seccion 6 Fundamentos Clases.iml" filepath="$PROJECT_DIR$/Seccion 6 Fundamentos Clases/Seccion 6 Fundamentos Clases.iml" />
