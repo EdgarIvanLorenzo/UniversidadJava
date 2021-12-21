@@ -17,8 +17,10 @@ public class Arreglos {
         //Arreglo de tipo Object
         //Creamos un arreglo de tipo Persona ya no de tipo de datos primitivos
         Persona [] personas=new Persona[2];
+        //Creacion de los objetos almacenados en el arreglo
         personas[0]=new Persona("Edgar ivan",21);
         personas[1]=new Persona("Joel",18);
+        //Se imprime el arreglo con el metodo Arrays.toString(Nombre arreglo);
         System.out.println("Personas, "+Arrays.toString(personas));
         System.out.println("Persona 1: "+personas[0].nombre+" con edad de "+personas[0].edad+" años.");
     }
